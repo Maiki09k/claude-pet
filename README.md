@@ -13,11 +13,11 @@ Claude Code, Codex, Musik, Termine und WhatsApp, direkt in der Kamera-Notch.
 [![Lizenz MIT](https://img.shields.io/badge/Lizenz-MIT-D77757)](LICENSE)
 [![Alles lokal](https://img.shields.io/badge/Daten-alles%20lokal-2EA043)](#woher-die-daten-kommen)
 
-<a href="docs/claude-pet-demo.mp4">
+<a href="https://github.com/Maiki09k/claude-pet/raw/main/docs/claude-pet-demo.mp4">
   <img src="docs/demo.gif" width="100%" alt="Demo: Die Notch klappt auf, zeigt Claude und Codex, eine Frage von Claude, einen Termin und einen WhatsApp-Chat">
 </a>
 
-<sub>Ganzen Demo-Film ansehen (30 s, mit Ton): <a href="docs/claude-pet-demo.mp4">MP4</a> · alle Bilder sind die echte App mit Beispieldaten</sub>
+<sub><a href="https://github.com/Maiki09k/claude-pet/raw/main/docs/claude-pet-demo.mp4">Ganzen Demo-Film herunterladen</a> (MP4, 30 s, mit Ton) · alle Bilder sind die echte App mit Beispieldaten</sub>
 
 </div>
 
